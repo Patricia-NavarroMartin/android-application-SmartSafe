@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2facb2</color>
+    <color name="colorPrimaryTrans">#ADBCA5</color>
+    <color name="colorPrimaryDark">#075e54</color>
+    <color name="colorAccent">#F76F8E</color>
+    <!--<color name="colorAccent">#FF6F59</color>-->
+    <!--<color name="colorAccent">#2dbe60</color>-->
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorError">#E09891</color>
+        <item name="visible" type="id"/>
+        <item name="masked" type="id"/>
+    <color name="colorGreen">#c867b784</color>
+    <color name="colorYellow">#c8fff457</color>
+    <color name="colorOrange">#c8fcaa78</color>
+    <color name="colorRed">#c8ff2f2d</color>
+
+
+
+</resources>
